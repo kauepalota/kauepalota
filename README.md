@@ -41,7 +41,7 @@ I design and operate **scalable backend platforms** — modernizing legacy syste
 
 <p align="center"><b>Frameworks &amp; Tooling</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,kafka,gradle,nx,githubactions&theme=dark" alt="Frameworks & Tooling">
+  <img src="https://skillicons.dev/icons?i=spring,kafka,gradle,grafana,githubactions&theme=dark" alt="Frameworks & Tooling">
 </p>
 
 ---
